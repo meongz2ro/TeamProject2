@@ -1,6 +1,7 @@
 # Team Project 2 Design Guide
     1. KEYWORD
     2. COLOR
+    #508E52
     3. FONT
 
 
